@@ -15,10 +15,10 @@ const Header: React.FC = () => {
         <Image src={BasketballLogo} alt="Basketball Logo" width={24} height={24} />
         
         <div className="flex md:gap-4 sm:gap-3 gap-2">
-          <Link href="/" className="text-black">Find a Store | <br /></Link>
-          <Link href="/Help" className="text-black">Help | <br /></Link>
-          <Link href="/" className="text-black">Join Us | <br /></Link>
-          <Link href="/signin" className="text-black">Sign In | <br /></Link>
+          <Link href="./Store" className="text-black">Find a Store | <br /></Link>
+          <Link href="./Help" className="text-black">Help | <br /></Link>
+          <Link href="./Sign-up" className="text-black">Join Us | <br /></Link>
+          <Link href="./Sign-in" className="text-black">Sign In | <br /></Link>
         </div>
       </div>
 
