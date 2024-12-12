@@ -1,5 +1,5 @@
 import Hero from "./hero";
-import Card from "./Card";
+import Card from "./card";
 import Running from "./running";
 import Gear from "./acc";
 import Stan from "./stan";
